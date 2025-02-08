@@ -1,6 +1,6 @@
 # Reconocimiento Facial y Emociones en Python
 
-Este proyecto utiliza OpenCV y DeepFace para realizar el **reconocimiento facial** y detectar **emociones** en tiempo real desde la cámara web. El programa procesa cada fotograma capturado por la cámara, detecta las caras en la imagen y muestra un cuadro alrededor de ellos, además de identificar y mostrar la emoción dominante en cada rostro.
+Este proyecto utiliza OpenCV y DeepFace para realizar el **reconocimiento facial** y detectar **emociones** en tiempo real desde la cámara web. El programa procesa cada fotograma capturado por la cámara, detecta las caras en la imagen y muestra un cuadro alrededor, además de identificar y mostrar la emoción dominante en cada cara.
 
 ## ¿Qué hace?
 
