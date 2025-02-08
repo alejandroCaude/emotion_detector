@@ -5,8 +5,8 @@ Este proyecto utiliza OpenCV y DeepFace para realizar el **reconocimiento facial
 ## ¿Qué hace?
 
 - **Detección de rostro**: Utiliza OpenCV para detectar caras en tiempo real a través de la cámara web.
-- **Análisis de emociones**: Utiliza DeepFace para analizar las emociones de las personas en las caras detectados.
-- **Traducción de emociones**: Las emociones detectadas son mostradas en español, basándose en una lista predefinida de emociones.
+- **Análisis de emociones**: Utiliza DeepFace para analizar las emociones de las personas en las caras detectadas.
+- **Traducción de emociones**: Las emociones se traducen al español, desde una lista puesta de emociones.
 - **Visualización**: Las caras detectadas se marcan con un cuadro verde y la emoción detectada se escribe encima de la cara en la imagen.
 
 ### Emociones soportadas:
